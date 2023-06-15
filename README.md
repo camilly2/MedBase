@@ -9,8 +9,8 @@
 * [Integrantes](#integrantes)
 * [Tema](#tema)
 * [Documentação](#documentação)
-* [Ferramentas Utilizadas](#ferramentas)
-* [Descrição das Ferramentas](#descrição)
+* [Ferramentas Utilizadas](#ferramentas-utilizadas)
+* [Descrição das Ferramentas](#descrição-das-ferramentas)
 * [Vídeo](#video)
 * [Referências](#referências)
 * [Agradecimentos](#agradecimentos)
@@ -47,18 +47,18 @@ Além das consultas online com clínicos gerais, com o *app* também poderá ser
 
 Este repositório no GitHub, tem como objetivo fazer a publicação dos documentos que foram produzidos durante o desenvolvimento deste projeto, além disso este projeto é a continuação de um projeto passado, realizado no segundo semestre de 2022, e que foi feito um *web site* para uma clínica médica, seguindo os mesmos objetivos e tema.
 
-Clique em [medbase](https://github.com/joaopmartinsx/medbase) para visualizar o *web site*.
+Clique em [medbase](https://github.com/joaopmartinsx/medbase) para visualizar o *web site*, ou pelo *link*: https://github.com/joaopmartinsx/medbase
 
 ---
 ## Ferramentas Utilizadas
 
 Durante a realização deste projeto foram utilizadas as seguintes ferramentas:
 
-* [Figma]
-* [Canva]
-* [Google Workspaces]
-* [Draw.io]
-* [LucidChart]
+* [Figma](https://www.figma.com/)
+* [Canva](https://www.canva.com/pt_br/)
+* [Google Workspaces](https://workspace.google.com/intl/pt-BR/)
+* [Draw.io](https://app.diagrams.net/)
+* [LucidChart](https://www.lucidchart.com/pages/pt?gclid=Cj0KCQjw7aqkBhDPARIsAKGa0oLsKVJtuypSFtx_PzzsQq4kxa87nXKIQRxEJv82cIryiethh9ZJqUUaAkhlEALw_wcB&km_CPC_AdGroupID=59412157138&km_CPC_AdPosition=&km_CPC_CampaignId=1500131167&km_CPC_Country=1001736&km_CPC_Creative=294337318298&km_CPC_Device=c&km_CPC_ExtensionID=&km_CPC_Keyword=lucidchart&km_CPC_MatchType=e&km_CPC_Network=g&km_CPC_TargetID=kwd-33511936169&km_CPC_placement=&km_CPC_target=&utm_campaign=_chart_pt_allcountries_mixed_search_brand_exact_&utm_medium=cpc&utm_source=google)
 
 ---
 
@@ -76,7 +76,7 @@ Durante a realização deste projeto foram utilizadas as seguintes ferramentas:
 
    Foram utilizados alguns de seus produtos, como o Docs, Planilas e Drive, para a realização dos documentos gerados e de seus armazenamentos, além de poder compartilhar com todos os integrantes do grupo para a realização deste projeto, como também visualizar o histórico de modificações e de suas versões.
 
-* Draw.i]: é um software de desenho gráfico multiplataforma gratuito e de código aberto desenvolvido em HTML5 e JavaScript. Sua interface pode ser usada para criar diagramas como fluxogramas, wireframes, diagramas UML, organogramas e diagramas de rede.
+* Draw.io: é um software de desenho gráfico multiplataforma gratuito e de código aberto desenvolvido em HTML5 e JavaScript. Sua interface pode ser usada para criar diagramas como fluxogramas, wireframes, diagramas UML, organogramas e diagramas de rede.
 
    Esta ferramenta foi utilizada para a criação do Caso de Uso (*User Case*), como também o Fluxo de Dados.
 
