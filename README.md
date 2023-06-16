@@ -12,7 +12,6 @@
 * [Ferramentas Utilizadas](#ferramentas-utilizadas)
 * [Descrição das Ferramentas](#descrição-das-ferramentas)
 * [Vídeo](#video)
-* [Referências](#referências)
 * [Agradecimentos](#agradecimentos)
 
 ---
@@ -90,12 +89,6 @@ Durante a realização deste projeto foram utilizadas as seguintes ferramentas:
 Para que entenda melhor nosso projeto, segue aqui nossa apresentação.
 
 * [Vídeo](#Link)
-
----
-
-## Referências
-
-
 
 ---
 
