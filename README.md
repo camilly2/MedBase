@@ -90,7 +90,7 @@ Durante a realização deste projeto foram utilizadas as seguintes ferramentas:
 
 Para que entenda melhor nosso projeto, segue aqui nossa apresentação.
 
-* [Vídeo](#Link)
+* [Vídeo](https://app.animaker.com/animo/1dffop3J3mw4EUPj/)
 
 ---
 
