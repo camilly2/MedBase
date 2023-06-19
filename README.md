@@ -48,6 +48,8 @@ Este repositório no GitHub, tem como objetivo fazer a publicação dos document
 
 Clique em [medbase](https://github.com/joaopmartinsx/medbase) para visualizar o *web site*, ou pelo *link*: https://github.com/joaopmartinsx/medbase
 
+E se preferir, você pode ter uma experiência ao utilizar o nosso protótipo em versão *mobile*. Acessando [MedBase](https://www.figma.com/proto/W1UyRwLKg8RNNgMluNdoyJ/MedBase?type=design&node-id=1-6&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A6)
+
 ---
 ## Ferramentas Utilizadas
 
